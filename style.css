@@ -1,0 +1,47 @@
+.one {
+    background-color: rgb(0, 255, 158);
+    width: 1500px;
+    height: 1800px;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 50px;
+    font-size: 60px
+}
+
+.two {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+}
+
+.three {
+    font-size: larger;
+    text-align: center;
+    font-family:robot;
+    
+}
+
+.four {
+    width: 900px;
+    height: 1150px;
+    background-color:#2e8b579e;
+    position: relative;
+    top: 10px;
+    left: 20%;
+    color: white;
+    box-shadow: 5px 5px 10px 2px #d8d8078c;
+
+}
+pre{
+    color: black;
+    font-size:larger;
+    font-family:robot;
+    position:absolute;
+    top:40px;
+}
+
+.five{
+    margin-left:300px;
+}
